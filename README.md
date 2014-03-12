@@ -6,7 +6,7 @@ This program utilizes the AGK library and was done with C++ (Visual Studio) as a
 
 
 <h2>Video of Game in Action</h2>
-[![Video](http://img.youtube.com/vi/https://www.youtube.com/watch?v=T4JtKVHu_4Y/0.jpg)](http://www.youtube.com/watch?v=T4JtKVHu_4Y)
+[![Video](http://img.youtube.com/vi/T4JtKVHu_4Y/0.jpg)](http://www.youtube.com/watch?v=T4JtKVHu_4Y)
 
 
 <center>
