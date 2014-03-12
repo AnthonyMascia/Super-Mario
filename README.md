@@ -6,4 +6,4 @@ This program utilizes the AGK library and was done with C++ (Visual Studio) as a
 
 Introduction Screen
 
-![ScreenShot](https://{imgur.com/BUeGxpu})
+![IntroScreen](http://i.imgur.com/BUeGxpu.png)
