@@ -4,11 +4,9 @@ Super-Mario
 My attempt at recreating a basic level of the classic game Super Mario Bros.
 This program utilizes the AGK library and was done with C++ (Visual Studio) as a final project for my gaming course.
 
-<embed
-width="420" height="345"
-src="http://www.youtube.com/watch?v=T4JtKVHu_4Y"
-type="application/x-shockwave-flash">
-</embed>
+
+[![Video](http://www.youtube.com/watch?v=T4JtKVHu_4Y/0.jpg)](http://www.youtube.com/watch?v=T4JtKVHu_4Y)
+
 
 <center>
   <h2>Introduction Screen</h2>
