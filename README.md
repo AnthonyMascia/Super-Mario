@@ -6,7 +6,7 @@ This program utilizes the AGK library and was done with C++ (Visual Studio) as a
 
 YOUTUBE LINK TO GAME IN ACTION
 
-<b><h1>Introduction Screen</h1></b>
+<b><h2>Introduction Screen</h2></b>
 
 ![IntroScreen](http://i.imgur.com/BUeGxpu.png)
 
