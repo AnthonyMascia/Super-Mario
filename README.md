@@ -14,20 +14,20 @@ Instructions
 
 Game Start
 
-![GameStart](http://i.imgur.com/qmZT25j)
+![GameStart](http://i.imgur.com/qmZT25j.png)
 
 Goombas and Fire
 
-![GoombasFire](http://i.imgur.com/JEEglqF)
+![GoombasFire](http://i.imgur.com/JEEglqF.png)
 
 Hitting a Coin Box
 
-![CoinBox](http://i.imgur.com/Emw5EuC)
+![CoinBox](http://i.imgur.com/Emw5EuC.png)
 
 Objective: Get to Peach
 
-![Peach](http://i.imgur.com/4O3CCCZ)
+![Peach](http://i.imgur.com/4O3CCCZ.png)
 
 End Game
 
-![EndGame](http://i.imgur.com/Ri7b9FD)
+![EndGame](http://i.imgur.com/Ri7b9FD.png)
