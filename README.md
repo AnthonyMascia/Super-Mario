@@ -6,30 +6,32 @@ This program utilizes the AGK library and was done with C++ (Visual Studio) as a
 
 YOUTUBE LINK TO GAME IN ACTION
 
-<b><h2>Introduction Screen</h2></b>
-
-![IntroScreen](http://i.imgur.com/BUeGxpu.png)
-
-Instructions
-
-![Instructions](http://i.imgur.com/T4WIXMU.png)
-
-Game Start
-
-![GameStart](http://i.imgur.com/qmZT25j.png)
-
-Goombas and Fire
-
-![GoombasFire](http://i.imgur.com/JEEglqF.png)
-
-Hitting a Coin Box
-
-![CoinBox](http://i.imgur.com/Emw5EuC.png)
-
-Objective: Get to Peach
-
-![Peach](http://i.imgur.com/4O3CCCZ.png)
-
-End Game
-
-![EndGame](http://i.imgur.com/Ri7b9FD.png)
+<center>
+  <b><h2>Introduction Screen</h2></b>
+  
+  ![IntroScreen](http://i.imgur.com/BUeGxpu.png)
+  
+  <b><h2>Instructions</b></h2>
+  
+  ![Instructions](http://i.imgur.com/T4WIXMU.png)
+  
+  <b><h2>Game Start</b></h2>
+  
+  ![GameStart](http://i.imgur.com/qmZT25j.png)
+  
+  <b><h2>Goombas and Fire/b></h2>
+  
+  ![GoombasFire](http://i.imgur.com/JEEglqF.png)
+  
+  <b><h2>Hitting a Coin Box</b></h2>
+  
+  ![CoinBox](http://i.imgur.com/Emw5EuC.png)
+  
+  <b><h2>Objective: Get to Peach</b></h2>
+  
+  ![Peach](http://i.imgur.com/4O3CCCZ.png)
+  
+  <b><h2>End Game</b></2>
+  
+  ![EndGame](http://i.imgur.com/Ri7b9FD.png)
+</center>
